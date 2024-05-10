@@ -1,18 +1,18 @@
 Explore Our Features:
 
-1. Event Creation: Seamlessly create new events with customizable details such as date, time, venue, and description.
+ 1. Event Creation: Seamlessly create new events with customizable details such as date, time, venue, and description.
 With our intuitive interface, you can set up events in minutes, saving you valuable time and effort.
 
-2. Attendee Management: Keep track of RSVPs, ticket sales, and attendee information effortlessly.
+ 2. Attendee Management: Keep track of RSVPs, ticket sales, and attendee information effortlessly.
 Our attendee management tools allow you to streamline the registration process and ensure a smooth experience for your guests.
 
-3.Task Assignment: Delegate tasks and responsibilities to your team members with ease.
+ 3.Task Assignment: Delegate tasks and responsibilities to your team members with ease.
 Our task assignment feature lets you assign deadlines, track progress, and collaborate effectively, ensuring that every aspect of your event is taken care of.
 
-4.Budget Tracking: Stay on top of your event budget with our budget tracking tools.
+ 4.Budget Tracking: Stay on top of your event budget with our budget tracking tools.
 Monitor expenses, track payments, and generate detailed reports to ensure that your event stays within budget.
 
-5.Communication Hub: Communicate with your team and attendees in real-time using our built-in messaging system.
+ 5.Communication Hub: Communicate with your team and attendees in real-time using our built-in messaging system.
 Share important updates, reminders, and announcements to keep everyone informed and engaged.
 
 
