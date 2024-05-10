@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <title>Event Page </title>
+	<style>
+		/* Styling the body */
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		/* Styling section, giving background
+			image and dimensions */
+		section {
+			width: 100%;
+			height: 100vh;
+			background:
+                           }
+
+		/* Styling the left floating section */
+		section .leftBox {
+			width: 50%;
+			height: 100%;
+			float: left;
+			padding: 50px;
+			box-sizing: border-box;
+		}
+
+		/* Styling the background of 
+			left floating section */
+		section .leftBox .content {
+			color: #fff;
+			background: rgba(0, 0, 0, 0.5);
+			padding: 40px;
+			transition: .5s;
+		}
+
+		/* Styling the hover effect 
+			of left floating section */
+		section .leftBox .content:hover {
+			background: #e9691ee8;
+		}
+
+		/* Styling the header of left 
+			floating section */
+		section .leftBox .content h1 {
+			margin: 0;
+			padding: 0;
+			font-size: 50px;
+			text-transform: uppercase;
+		}
+
+		/* Styling the paragraph of 
+			left floating section */
+		section .leftBox .content p {
+			margin: 10px 0 0;
+			padding: 0;
+		}
+
+		/* Styling the three events section */
+		section .events {
+			position: relative;
+			width: 50%;
+			height: 100%;
+			background: rgba(0, 0, 0, 0.5);
+			float: right;
+			box-sizing: border-box;
+		}
+
+		/* Styling the links of 
+		the events section */
+		section .events ul {
+			position: absolute;
+			top: 50%;
+			transform: translateY(-50%);
+			margin: 0;
+			padding: 40px;
+			box-sizing: border-box;
+		}
+
+		/* Styling the lists of the event section */
+		section .events ul li {
+			list-style: none;
+			background: #fff;
+			box-sizing: border-box;
+			height: 200px;
+			margin: 15px 0;
+		}
+
+		/* Styling the time class of events section */
+		section .events ul li .time {
+			position: relative;
+			padding: 20px;
+			background: #262626;
+			box-sizing: border-box;
+			width: 30%;
+			height: 100%;
+			float: left;
+			text-align: center;
+			transition: .5s;
+		}
+
+		/* Styling the hover effect
+			of events section */
+		section .events ul li:hover .time {
+			background: #e91e2f;
+		}
+
+		/* Styling the header of time 
+			class of events section */
+		section .events ul li .time h2 {
+			position: absolute;
+			margin: 0;
+			padding: 0;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			color: #fff;
+			font-size: 60px;
+			line-height: 30px;
+		}
+
+		/* Styling the texts of time 
+		class of events section */
+		section .events ul li .time h2 span {
+			font-size: 30px;
+		}
+
+		/* Styling the details 
+		class of events section */
+		section .events ul li .details {
+			padding: 20px;
+			background: #fff;
+			box-sizing: border-box;
+			width: 70%;
+			height: 100%;
+			float: left;
+		}
+
+		/* Styling the header of the 
+		details class of events section */
+		section .events ul li .details h3 {
+			position: relative;
+			margin: 0;
+			padding: 0;
+			font-size: 22px;
+		}
+
+		/* Styling the lists of details 
+		class of events section */
+		section .events ul li .details p {
+			position: relative;
+			margin: 10px 0 0;
+			padding: 0;
+			font-size: 16px;
+		}
+
+		/* Styling the links of details
+		class of events section */
+		section .events ul li .details a {
+			display: inline-block;
+			text-decoration: none;
+			padding: 10px 15px;
+			border: 1.5px solid #262626;
+			margin-top: 8px;
+			font-size: 18px;
+			transition: .5s;
+		}
+
+		/* Styling the details class's hover effect */
+		section .events ul li .details a:hover {
+			background: #e9691e;
+			color: #fff;
+			border-color: #e9691e;
+		}
+	</style>
+</head>
+
+<body>
+	<section>
+		<div class="leftBox">
+			<div class="content">
+				<h1>
+					Events and Shows
+				</h1>
+                <h2>Introduction to Arpit Singhal's GitHub Showcase</h2>
+				<p>
+					Embark on a journey through Arpit's meticulously crafted projects, 
+                    where every line of code tells a story and every pixel is purposefully placed. 
+                    Whether you're a seasoned developer seeking inspiration or a curious enthusiast 
+                    exploring the wonders of web development 
+                    <br><br>Arpit Singhal's GitHub Showcase promises to ignite your imagination and elevate your coding prowess.
+                    From sleek and modern designs to playful and interactive interfaces, 
+                Arpit's portfolio spans a diverse range of projects, each showcasing his mastery of HTML and CSS. 
+                Whether it's a stunning website, a dynamic web application, or an innovative user interface concept, 
+          Arpit's creations push the boundaries of what's possible with front-end development.
+            <br><br>Join us as we unravel the magic behind Arpit Singhal's GitHub repository, where innovation, 
+           elegance, and functionality converge to create unforgettable digital experiences. Explore, learn, 
+            and be inspired as you discover the extraordinary world 
+        of web development through the lens of Arpit Singhal's HTML and CSS creations.
+				</p>
+			</div>
+		</div>
+		<div class="events">
+			<ul>
+				<li>
+					<div class="time">
+						<h2>
+							1 <br><span>January</span>
+						</h2>
+					</div>
+					<div class="details">
+						<h3>
+							Happy New Year 
+						</h3>
+						<p>
+							As the clock strikes midnight and the calendar turns its page, 
+                            we stand at the threshold of a brand new year, 
+                            brimming with endless possibilities and untapped potential.
+						</p>
+						<a href="#">New Year</a>
+					</div>
+					<div style="clear: both;"></div>
+				</li>
+				<li>
+					<div class="time">
+						<h2>
+							15 <br><span>August</span>
+						</h2>
+					</div>
+					<div class="details">
+						<h3>
+							Happy Independence Day
+						</h3>
+						<p>
+							India Independence Day, observed on August 15th each year, 
+                            marks the momentous occasion when India broke free 
+                            from centuries of colonial rule to emerge as a sovereign nation. 
+						</p>
+						<a href="#">Parade</a>
+					</div>
+					<div style="clear:both;"></div>
+				</li>
+				<li>
+					<div class="time">
+						<h2>
+							3 <br><span>September</span>
+						</h2>
+					</div>
+					<div class="details">
+						<h3>
+							Happy Birthday To Me !
+						</h3>
+						<p>
+							Today marks a special occasion, a day brimming with joy, laughter, and cherished memories. 
+                            It's my birthday, a momentous milestone in the journey of my life!
+						</p>
+						<a href="#">Celebrate !</a>
+					</div>
+					<div style="clear:both;"></div>
+				</li>
+			</ul>
+		</div>
+	</section>
+</body>
+
+</html>
