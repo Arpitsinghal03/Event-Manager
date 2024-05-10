@@ -1,9 +1,9 @@
 Explore Our Features:
 
- 1. Event Creation: Seamlessly create new events with customizable details such as date, time, venue, and description.
+1. Event Creation: Seamlessly create new events with customizable details such as date, time, venue, and description.
 With our intuitive interface, you can set up events in minutes, saving you valuable time and effort.
 
- 2. Attendee Management: Keep track of RSVPs, ticket sales, and attendee information effortlessly.
+2. Attendee Management: Keep track of RSVPs, ticket sales, and attendee information effortlessly.
 Our attendee management tools allow you to streamline the registration process and ensure a smooth experience for your guests.
 
  3.Task Assignment: Delegate tasks and responsibilities to your team members with ease.
